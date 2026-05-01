@@ -57,12 +57,11 @@
    ```bash
    git clone https://github.com/FatimaAnsari655/Ayurvedic-Plant-Classification-Using-ML.git
 
-Install dependencies:
-
+- Install dependencies:
 Bash
 pip install -r requirements.txt
-Run the application:
 
+- Run the application:
 Bash
 python app1.py   
 
@@ -71,5 +70,5 @@ python app1.py
 - Provides accurate predictions with medicinal information
 
 ## Author
-- Fatima Ansari
+Fatima Ansari
 
