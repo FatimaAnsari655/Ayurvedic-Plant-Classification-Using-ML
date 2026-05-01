@@ -46,6 +46,7 @@
   
 ## 📂 Dataset
 - Source: Kaggle
+- Link: https://www.kaggle.com/datasets/thulasinath/45-ayurvedic-plants
 - Contains images of **45 different Ayurvedic plants**
 - Leaf images are used for classification
 - Images are resized to **224 × 224**
@@ -58,12 +59,12 @@
    git clone https://github.com/FatimaAnsari655/Ayurvedic-Plant-Classification-Using-ML.git
 
 - Install dependencies:
-Bash
-pip install -r requirements.txt
+  ```Bash
+  pip install -r requirements.txt
 
 - Run the application:
-Bash
-python app1.py   
+  ```Bash
+  streamlit run app1.py   
 
 ## Results
 - The model successfully classifies Ayurvedic plants from leaf images
