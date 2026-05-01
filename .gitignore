@@ -1,0 +1,7 @@
+__pycache__/
+.ipynb_checkpoints/
+*.zip
+*.virtual_documents/
+removed_images/
+medicinalplant/
+dataset_split/
