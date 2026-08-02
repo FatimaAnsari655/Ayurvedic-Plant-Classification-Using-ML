@@ -5,3 +5,4 @@ __pycache__/
 removed_images/
 medicinalplant/
 dataset_split/
+test_env/
