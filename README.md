@@ -70,6 +70,9 @@
 - The model successfully classifies Ayurvedic plants from leaf images
 - Provides accurate predictions with medicinal information
 
+## Deployed Project
+Link: https://ayurvedic-plant-classification-using-ml.streamlit.app/
+
 ## Author
 Fatima Ansari
 
